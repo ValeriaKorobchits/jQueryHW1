@@ -1,0 +1,14 @@
+body {
+background-image: url(https://img.freepik.com/free-vector/paper-style-white-monochrome-background_52683-66443.jpg?w=2000);
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+}
+h1, h2{
+    display: flex;
+    justify-content: center;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+h2{
+    border: 1px solid black;
+}
